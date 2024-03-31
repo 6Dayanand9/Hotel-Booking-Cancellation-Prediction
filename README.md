@@ -1,6 +1,5 @@
 # Hotel-Booking-Cancellation-Prediction
 Using Python, I analyzed hotel booking data, cleaned it, visualized trends, and predicted cancellations with classification algorithms. Valuable insights for hotel management. 
-Certainly! Here's a 500-word description:
 
 In this project, I embarked on a journey to analyze hotel booking data and predict cancellation patterns using various machine learning algorithms. The first step involved cleaning the dataset, which was riddled with errors and inconsistencies. Through careful data cleaning techniques, I rectified missing values, corrected formatting issues, and addressed outliers to ensure data accuracy and reliability.
 
